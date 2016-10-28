@@ -1,10 +1,26 @@
 CACHE MANIFEST
 # 2016-10-27 v1.0.20
 
-./laspalmasmobile.css
-./laspalmasmobile.js
-./laspalmasmobile.html
-./img/bg.jpg
-./js/jquery-1.12.4.js
-./js/jquery-ui.js
-
+laspalmasmobile.html
+laspalmasmobile.css
+laspalmasmobile.js
+img/app-icon.png
+img/avalon_badge.png
+img/bg.jpg
+img/emmaleena.jpg
+img/finnair.png
+img/jetro.jpg
+img/joni.jpg
+img/juho.jpg
+img/kimmo.jpg
+img/laura.jpg
+img/markus.jpg
+img/noone.png
+img/perttu.jpg
+img/peter.jpg
+img/teemu.jpg
+img/timo.jpg
+img/tommi.jpg
+img/vincent.jpg
+js/jquery-1.12.4.js
+js/jquery-ui.js
